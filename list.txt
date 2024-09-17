@@ -53,6 +53,7 @@ assets/cartoon-oy08tx38.webp
 assets/o775fafj7s5edmmm.js
 assets/charcoal-fsha4717.webp
 assets/claymation-ew3p88dt.webp
+assets/i5jo5pq9oqk0onfb.js
 assets/golden-hour-k9pffatz.webp
 assets/h5hppz9c6gshsnx7.js
 assets/nog9msxhd5d0orkv.js
@@ -160,6 +161,7 @@ assets/chalk-art-idnoemov.webp
 assets/lzxdpwmkrkh5vblj.js
 assets/l976sqo66oq2nai8.js
 assets/favicon-16x16-k7wntvgz.webp
+assets/joa8jajuiu4xqpzn.js
 assets/high-contrast-jnqc7phz.webp
 assets/pixel-art-mx0dhpvv.webp
 assets/flowers-jurhmr8v.webp
