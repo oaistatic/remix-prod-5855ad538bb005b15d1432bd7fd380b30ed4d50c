@@ -4,6 +4,7 @@ gpts.html
 gizmo.html
 gptseditor.html
 gizmoconv.html
+cindex.html
 c.html
 assets/moss-o50i3l9n.webp
 assets/synthwave-crpfl369.webp
